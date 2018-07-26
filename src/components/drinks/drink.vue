@@ -46,6 +46,7 @@
                 <figcaption>
                     <h5>{{item.title}}<span>{{item.span}}</span></h5>
                     <p>500 ml @ Ksh 250
+                        250 ml @ Ksh 150
                         <br>
                         <a href="#"><i class="fa fa-whatsapp pull-right" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-cart-plus pull-right" aria-hidden="true"></i></a></p>
